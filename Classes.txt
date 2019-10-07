@@ -1,0 +1,110 @@
+0 General and Other
+     00 General
+     01 Encyclopedias
+     02 Books
+     03 Periodicals
+     04 Treatises, Manifestos and Speeches
+     05 
+     06 Societies
+     07 Computers
+     08 Information Science
+     09 Crime
+1 Philosophy
+     10 General
+     11 
+     12 
+     13 
+     14 
+     15 
+     16 
+     17 
+     18 
+     19 
+2 Religion
+     20 General
+     21 Abrahamic and Satanism
+     22 European
+     23 Asian
+     24 Native American
+     25 African
+     26 Oceanic
+     27 
+     28 New Age and Neopaganism
+     29 
+3 Languages
+     30 General
+     31 
+     32 
+     33 
+     34 
+     35 
+     36 
+     37 
+     38 
+     39 
+4 Social Sciences
+     40 General
+     41 Statistics
+     42 Politics
+     43 Law
+     44 Administration and Bureaucracy
+     45 Associations and Institutions
+     46 Education
+     47 Economy
+     48 Commerce
+     49 Customs
+5 Natural Sciences
+     50 General
+     51 Mathematics
+     52 Astronomy
+     53 Physics
+     54 Chemistry
+     55 Geology
+     56 Paleontology
+     57 Biology
+     58 Botany
+     59 Zoology
+6 Other Sciences
+     60 General
+     61 Medicine
+     62 Engineering and Applied Electronics
+     63 Agriculture
+     64 Economy
+     65 Communication
+     66 Chemical Technology
+     67 Manufacturing Materials
+     68 Trades
+     69 Building and Architecture
+7 Art and Entertainment
+     70 General
+     71 Sculpture
+     72 Drawing and Painting
+     73 Graphic Design
+     74 Photography
+     75 Music
+     76 Dance
+     77 Games
+     78 Movies and TV Shows
+     79 Radio
+8 Fiction
+     80 General
+     81 Fantasy
+     82 Science Fiction
+     83 Children's Fiction
+     84 Romance
+     85 Crime and Investigation
+     86 Thriller
+     87 Drama
+     88 Comedy
+     89 Adult Fiction
+9 History
+     90 General
+     91 Europe
+     92 Asia
+     93 North America
+     94 South America
+     95 Africa
+     96 Middle East, Oceania and Polar Regions
+     97 World
+     98 Alternate History
+     99 Biographies, Journals and Diaries

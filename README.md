@@ -1,14 +1,16 @@
-# Book Classification
+﻿# Book Classification
 
 1. ABOUT
 
 2. LEGAL
 
+3. TODO
+
 <br/>
 
 **ABOUT**
 
-A book classification system for smaller general-purpose libraries
+A book classification system for smaller general-purpose libraries.
 
 <br/>
 
@@ -19,3 +21,11 @@ This work is based on Melvil Dewey's 1876 book titled A Classification and Subje
 This work is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
 Copyright 2019 Borna Pekarić
+
+<br/>
+
+**TODO**
+
+- Write a document talking about the classification system.
+
+- Fill the remaining empty classes.
