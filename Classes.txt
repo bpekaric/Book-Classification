@@ -11,12 +11,12 @@
      09 Crime
 1 Philosophy
      10 General
-     11 
-     12 
-     13 
-     14 
-     15 
-     16 
+     11 Epistemology
+     12 Ethics
+     13 Esthetics
+     14 Political Philosophy
+     15 Logic
+     16 Philosophy of Science
      17 
      18 
      19 
@@ -33,14 +33,14 @@
      29 
 3 Languages
      30 General
-     31 
-     32 
-     33 
-     34 
+     31 European
+     32 Asian
+     33 African
+     34 Oceanic
      35 
      36 
      37 
-     38 
+     38 Constructed and Fictional
      39 
 4 Social Sciences
      40 General
